@@ -1,0 +1,32 @@
+p{
+    font-size: 18pt;
+
+
+}
+
+.close{
+margin: auto;
+width: 40%;
+}
+
+
+
+
+
+body {
+background-image: url('https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/3f283002b47c62b1e5d311c45f95c97e.jpe');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
+
+.naruto{
+
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    padding: 15px;
+    background-color: rgba(245, 245, 245, 0.825);
+    margin:auto;
+
+}
